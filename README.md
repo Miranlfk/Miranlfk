@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Miranlfk.Miranlfk" />
 
 <h1 align="center">
-    Hey there amigos! Miraaaaaan here 🍃
+    Hey there amigos! Miraaaaaan here 💥
 </h1>
 
 ###
