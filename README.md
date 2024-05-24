@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Miranlfk.Miranlfk" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Miran+Kurukulasuriya!;" />
+    Hey there amigos! Miraaaaaan here 🍃
 </h1>
 
 ###
@@ -22,7 +22,7 @@
  
  🌱 I’m currently learning **Go, Ballerina and NextJS**
 
-⚡ Fun fact **The shortest recorded song is "You Suffer" by the British grindcore band Napalm Death.**
+⚡ Fun fact **The shortest recorded song is "You Suffer" by the British grindcore band Napalm Death. It lasts just 1.316 seconds.**
 
  </div>
  
