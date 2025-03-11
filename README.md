@@ -15,7 +15,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **Asgardeo and WSO2 Identity Server**
+ 🔭 I’m currently working on **Asgardeo and WSO2 Identity Server**
  
  🌱 I’m currently learning **Go, Ballerina and NextJS**
 
