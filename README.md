@@ -15,9 +15,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Asgardeo and WSO2 Identity Server**
+ 🔭 I’m currently working on **Asgardeo, WSO2 Identity Server and ThunderID**
  
- 🌱 I’m currently learning **Go, Ballerina and NextJS**
+ 🌱 I’m currently learning **Go and NextJS**
 
 ⚡ Fun fact **The shortest recorded song is "You Suffer" by the British grindcore band Napalm Death. It lasts just 1.316 seconds.**
 
